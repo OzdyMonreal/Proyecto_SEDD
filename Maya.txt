@@ -1,0 +1,8 @@
+Rocio
+50
+Mujer
+10
+Omar
+21
+Hombre
+67

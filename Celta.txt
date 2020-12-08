@@ -1,0 +1,8 @@
+Alberto
+45
+Hombre
+89
+Francisco
+10
+Hombre
+100
